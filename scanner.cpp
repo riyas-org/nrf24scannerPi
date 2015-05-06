@@ -103,7 +103,7 @@ void scanChannels(void)
 {
   //printf("scanning\n");
   disable();
-  for( int j=0 ; j<100  ; j++)
+  for( int j=0 ; j<200  ; j++)
   {
     //printf(".");
     for( int i=0 ; i<CHANNELS ; i++)
